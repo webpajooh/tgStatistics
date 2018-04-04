@@ -11,7 +11,7 @@ I sure you have a [telegram](https://telegram.org/) account! and you have a [cha
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `<?php tgStatistics($botAPI, $channelUsername); ?>` in your templates, or use the shortcode [tgstatistics] with two fields (botapi and username), and you can leave "botapi" because it has a default value.
 
-## Examples
+## Example
     <?php
         echo tgStatistics('532077202:AAHOXZ1kfsfz-jOfNGs6QxAteHfSaDaSrI4', 'WebPajooh');
     ?>
