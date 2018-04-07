@@ -13,7 +13,7 @@ I sure you have a [telegram](https://telegram.org/) account! and you have a [cha
 
 ## Example
     <?php
-        echo tgStatistics('532077202:AAHOXZ1kfsfz-jOfNGs6QxAteHfSaDaSrI4', 'WebPajooh');
+        echo tgStatistics('532037201:AAHOXZ1kfgfz-jOgNGs6QxAteHfSaDaSrI4', 'WebPajooh');
     ?>
 
 ## Thanks
